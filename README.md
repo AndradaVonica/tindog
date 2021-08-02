@@ -1,2 +1,3 @@
 # tindog
-Idk 
+
+This is 
